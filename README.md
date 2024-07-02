@@ -1,5 +1,5 @@
 # Dashboard of Covid 19 Pandemic 2020 - 2022
-This dashboard uses data on the global distribution of COVID-19 from 2020 to 2022 through various perspectives, namely geography, continent, country and season. The following is a detailed explanation in the dashboard
+This dashboard uses data on the global distribution of COVID-19 from 2020 to 2022 through various perspectives, namely geography, continent, country, and season. Here is a detailed explanation of what is in the dashboard
 
 1. World Map Distribution
 Using an interactive world map, this feature allows users to see the geographic spread of the pandemic across different regions and countries.

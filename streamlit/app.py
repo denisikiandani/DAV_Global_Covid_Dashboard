@@ -247,7 +247,7 @@ with top_right_col1:
 
 
 with bottom_left_col3:
-    st.markdown(f'### COVID-19 Statistics by Continent: {continent}')
+    st.markdown(f'### COVID-19 Statistics by {continent}')
     bar_chart = plot_bar(covid_df, year, month, continent)
     st.plotly_chart(bar_chart, use_container_width=True)
 

@@ -1,5 +1,5 @@
-![Alt text](./img/dashboard-dav1)
-![Alt text](./img/dashboard-dav2)
+![Alt text](/img/dashboard-dav1)
+![Alt text](/img/dashboard-dav2)
 # Dashboard of Covid 19 Pandemic 2020 - 2022
 This dashboard uses data on the global distribution of COVID-19 from 2020 to 2022 through various perspectives, namely geography, continent, country, and season. Here is a detailed explanation of what is in the dashboard
 

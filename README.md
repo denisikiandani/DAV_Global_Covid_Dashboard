@@ -1,6 +1,6 @@
-![Alt text](./img/dashboard-dav1.png)
-![Alt text](./img/dashboard-dav2.png)
 # Dashboard of Covid 19 Pandemic 2020 - 2022
+![Dashboard image 1](./img/dashboard-dav1.png)
+![Dashboard image 2](./img/dashboard-dav2.png)
 This dashboard uses data on the global distribution of COVID-19 from 2020 to 2022 through various perspectives, namely geography, continent, country, and season. Here is a detailed explanation of what is in the dashboard
 
 1. Total Cases, Total Confirmed, Total Recovered, and Total Deaths
@@ -26,3 +26,5 @@ Contains countries with the highest number of recovered COVID-19 cases. This met
 
 9. Top 5 Death Cases
 Contains countries with the highest number of COVID-19 related deaths. This metric reflects the severity of the pandemic's impact on mortality.
+
+[![Dashboard Access]([https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github](https://img.shields.io/badge/-Link-blue?style=flat&logo=link))](https://dav-globalcovid-dashboard.streamlit.app/)

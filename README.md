@@ -27,4 +27,5 @@ Contains countries with the highest number of recovered COVID-19 cases. This met
 9. Top 5 Death Cases
 Contains countries with the highest number of COVID-19 related deaths. This metric reflects the severity of the pandemic's impact on mortality.
 
-[![Dashboard Access Link](https://img.shields.io/badge/-Link-blue?style=flat&logo=link)](https://dav-globalcovid-dashboard.streamlit.app/)
+Dashboard Access Link
+https://dav-globalcovid-dashboard.streamlit.app
